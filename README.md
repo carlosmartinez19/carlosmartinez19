@@ -13,17 +13,16 @@ developer
 * 🤝  I'm open to collaborating on any project.
 * ⚡  I love listening to Christian music.
 
-### Skills
-    <p align="left">
+Skills
+--------------------------------------------------------
+        
         - c++
         - Java
         - Html
         - CSS
-    </p>
 
-### Socials
-                  
-    <p align="left">
+Socials
+------------------------------------------------------------
                             
         "https://github.com/carlosmartinez19" target="_blank"
                             
@@ -32,4 +31,3 @@ developer
         "https://www.facebook.com/carlossaid19/
 
         https://www.instagram.com/_martinezcarlos19/
-    </p>
