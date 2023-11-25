@@ -31,8 +31,7 @@ developer
                             
         <a href="https://www.facebook.com/carlossaid19/" target="_blank" rel="noreferrer"><img src="C:\Users\Carlos Said\Downloads\Facebook-Logo-2019.png"/></a>
 
-        <a href="https://www.instagram.com/_martinezcarlos19/" target="_blank" rel="noreferrer"><img src="C:\Users\Carlos Said\Downloads\descarga.jpg" /></a>
-    </p>
+        <a href="https://www.instagram.com/_martinezcarlos19/" target="_blank" rel="noreferrer"><img src="C:\Users\Carlos Said\Downloads\descarga.jpg" /></a></p>
 
 ### Badges <b>My GitHub Stats</b>
   <a href="https://github.com/carlosmartinez19"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
